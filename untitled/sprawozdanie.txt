@@ -1,0 +1,1 @@
+Git jest przydatny po to, żeby można było wrócić do wcześniejszego kodu w razie potrzeby. Konfliktom należy zapobiegać a jeśli się pojawią należy je jak najszybciej rozwiązać. Tak. Nie było problemów. Nie
